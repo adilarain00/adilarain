@@ -27,8 +27,8 @@ Welcome to my personal developer portfolio! This website is a curated showcase o
 [![My Skills](https://skillicons.dev/icons?i=react)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=nodejs)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=express)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=mongodb)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+[![My Skills](https://skillicons.dev/icons?i=mongodb)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+
 [![My Skills](https://skillicons.dev/icons?i=git)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=github)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=docker)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
